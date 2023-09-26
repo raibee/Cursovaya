@@ -1,0 +1,470 @@
+﻿  box.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(5,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(6,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(9,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(9,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(10,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(10,27): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(11,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(11,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(26,101): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(26,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(32,84): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(32,50): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(39,101): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(39,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(44,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(44,50): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(51,36): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(51,29): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(52,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\box.cpp(52,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  btn.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\btn.cpp(56,15): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\btn.cpp(57,15): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  complex.cpp
+  fern.cpp
+  julia.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(3,38): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(3,47): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(3,58): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(3,72): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(3,85): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(3,99): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(13,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(14,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  random.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\random.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  slider.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(17,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(17,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(18,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(19,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(19,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(21,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(21,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(22,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(22,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(23,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(23,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(31,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(31,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(45,104): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(45,70): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(50,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(50,53): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(71,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(71,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(73,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(83,86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\slider.cpp(83,48): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  tree.cpp
+  funkoh.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\funkoh.cpp(9,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\funkoh.cpp(10,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\funkoh.cpp(28,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  globals.cpp
+  kohs_snow.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\kohs_snow.cpp(11,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Main.cpp
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(35,32): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(35,29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(208,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(209,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(210,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(214,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(222,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(230,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(239,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(241,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(249,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(251,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(265,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(279,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(280,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(285,121): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(285,77): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(294,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(308,47): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(309,47): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(314,126): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(314,80): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(323,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(337,47): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(338,47): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(343,126): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(343,80): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(513,86): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(512,104): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(519,83): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(518,116): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(525,90): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(524,123): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(535,82): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(534,101): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(539,83): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(538,102): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(548,111): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(548,79): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(559,123): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(559,86): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(570,90): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(570,64): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(576,92): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(576,65): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(582,93): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\CursovayaC\CursovayaC\Main.cpp(582,65): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  point.cpp
+  Создание кода...
+C:\Users\user\Desktop\CursovayaC\CursovayaC\julia.cpp(27): warning C4172: возвращение адреса локальной или временной переменной : size
+C:\Users\user\Desktop\CursovayaC\CursovayaC\complex.cpp(14): warning C4172: возвращение адреса локальной или временной переменной : C
+C:\Users\user\Desktop\CursovayaC\CursovayaC\complex.cpp(16): warning C4172: возвращение адреса локальной или временной переменной : J
+C:\Users\user\Desktop\CursovayaC\CursovayaC\complex.cpp(8): warning C4172: возвращение адреса локальной или временной переменной : C
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (__imp_?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z) в функции "public: void __thiscall Box::moveb1(class sf::RenderWindow &)" (?moveb1@Box@@QAEXAAVRenderWindow@sf@@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (__imp_?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@ABVWindow@2@@Z) в функции "public: void __thiscall Box::moveb1(class sf::RenderWindow &)" (?moveb1@Box@@QAEXAAVRenderWindow@sf@@@Z).
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@ABVWindow@2@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@ABVWindow@2@@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QAEXMM@Z) в функции "public: __thiscall Box::Box(double,double,double,double)" (??0Box@@QAE@NNNN@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QAEXMM@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QAEXMM@Z) в функции "public: __thiscall Box::Box(double,double,double,double)" (??0Box@@QAE@NNNN@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QAEXMM@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<float> const & __thiscall sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QBEABV?$Vector2@M@2@XZ) в функции "public: double __thiscall Box::getX(void)" (?getX@Box@@QAENXZ).
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<float> const & __thiscall sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QBEABV?$Vector2@M@2@XZ).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<float> const & __thiscall sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QBEABV?$Vector2@M@2@XZ).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z) в функции "public: __thiscall Box::Box(double,double,double,double)" (??0Box@@QAE@NNNN@Z).
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QAEXM@Z) в функции "public: __thiscall Box::Box(double,double,double,double)" (??0Box@@QAE@NNNN@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Shape::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Shape@sf@@QBE?AV?$Rect@M@2@XZ) в функции "public: void __thiscall Box::moveb1(class sf::RenderWindow &)" (?moveb1@Box@@QAEXAAVRenderWindow@sf@@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Shape::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Shape@sf@@QBE?AV?$Rect@M@2@XZ).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z) в функции "public: __thiscall Box::Box(double,double,double,double)" (??0Box@@QAE@NNNN@Z).
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QAEXABV?$Vector2@M@2@@Z) в функции "public: __thiscall Box::Box(double,double,double,double)" (??0Box@@QAE@NNNN@Z).
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QAEXABV?$Vector2@M@2@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QAEXABV?$Vector2@M@2@@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QAEXABV?$Vector2@M@2@@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ) в функции __unwindfunclet$??0Box@@QAE@NNNN@Z$0.
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z) в функции "public: void __thiscall Box::drawB1(class sf::RenderWindow &)" (?drawB1@Box@@QAEXAAVRenderWindow@sf@@@Z).
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B) в функции "public: void __thiscall Box::drawB1(class sf::RenderWindow &)" (?drawB1@Box@@QAEXAAVRenderWindow@sf@@@Z).
+btn.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B).
+box.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Transparent" (__imp_?Transparent@Color@sf@@2V12@B) в функции "public: __thiscall Box::Box(double,double,double,double)" (??0Box@@QAE@NNNN@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVlocale@3@@Z) в функции "public: __thiscall Button::Button(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,class sf::Color,class sf::Color)" (??0Button@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@HVColor@4@2@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVlocale@3@@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ) в функции "public: __thiscall Button::Button(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,class sf::Color,class sf::Color)" (??0Button@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@HVColor@4@2@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z) в функции "public: void __thiscall Button::setPosition(class sf::Vector2<float>)" (?setPosition@Button@@QAEXV?$Vector2@M@sf@@@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Color const & __thiscall sf::Shape::getFillColor(void)const " (__imp_?getFillColor@Shape@sf@@QBEABVColor@2@XZ) в функции "public: class sf::Color __thiscall Button::getColor(void)" (?getColor@Button@@QAE?AVColor@sf@@XZ).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Shape::getLocalBounds(void)const " (__imp_?getLocalBounds@Shape@sf@@QBE?AV?$Rect@M@2@XZ) в функции "public: bool __thiscall Button::isMouseOver(class sf::RenderWindow &)" (?isMouseOver@Button@@QAE_NAAVRenderWindow@sf@@@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Text::Text(void)" (__imp_??0Text@sf@@QAE@XZ) в функции "public: __thiscall Button::Button(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,class sf::Color,class sf::Color)" (??0Button@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@HVColor@4@2@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Text::Text(void)" (__imp_??0Text@sf@@QAE@XZ).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QAEXABVString@2@@Z) в функции "public: __thiscall Button::Button(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,class sf::Color,class sf::Color)" (??0Button@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@HVColor@4@2@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QAEXABVString@2@@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QAEXABVString@2@@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QAEXABVFont@2@@Z) в функции "public: void __thiscall Button::setFont(class sf::Font &)" (?setFont@Button@@QAEXAAVFont@sf@@@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QAEXABVFont@2@@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QAEXI@Z) в функции "public: __thiscall Button::Button(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,class sf::Color,class sf::Color)" (??0Button@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@HVColor@4@2@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QAEXI@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QAEXABVColor@2@@Z) в функции "public: __thiscall Button::Button(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,class sf::Color,class sf::Color)" (??0Button@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@HVColor@4@2@Z).
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QAEXABVColor@2@@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Text::getLocalBounds(void)const " (__imp_?getLocalBounds@Text@sf@@QBE?AV?$Rect@M@2@XZ) в функции "public: void __thiscall Button::setPosition(class sf::Vector2<float>)" (?setPosition@Button@@QAEXV?$Vector2@M@sf@@@Z).
+btn.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::Text::~Text(void)" (__imp_??1Text@sf@@UAE@XZ) в функции __unwindfunclet$??0Button@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@HVColor@4@2@Z$2.
+slider.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::Text::~Text(void)" (__imp_??1Text@sf@@UAE@XZ).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::Text::~Text(void)" (__imp_??1Text@sf@@UAE@XZ).
+slider.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Font::Font(void)" (__imp_??0Font@sf@@QAE@XZ) в функции "public: __thiscall Slider::Slider(int,int,int,int)" (??0Slider@@QAE@HHHH@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Font::Font(void)" (__imp_??0Font@sf@@QAE@XZ).
+slider.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Font::~Font(void)" (__imp_??1Font@sf@@QAE@XZ) в функции __unwindfunclet$??0Slider@@QAE@HHHH@Z$2.
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Font::~Font(void)" (__imp_??1Font@sf@@QAE@XZ).
+slider.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: __thiscall Slider::Slider(int,int,int,int)" (??0Slider@@QAE@HHHH@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z).
+slider.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Text::Text(class sf::Text const &)" (__imp_??0Text@sf@@QAE@ABV01@@Z) в функции "public: class sf::Text __thiscall Slider::returnText(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?returnText@Slider@@QAE?AVText@sf@@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z).
+slider.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B) в функции "public: __thiscall Slider::Slider(int,int,int,int)" (??0Slider@@QAE@HHHH@Z).
+Main.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B).
+slider.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Magenta" (__imp_?Magenta@Color@sf@@2V12@B) в функции "public: __thiscall Slider::Slider(int,int,int,int)" (??0Slider@@QAE@HHHH@Z).
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QAEXI@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) bool __cdecl sf::operator==(class sf::Color const &,class sf::Color const &)" (__imp_??8sf@@YA_NABVColor@0@0@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Vertex::Vertex(void)" (__imp_??0Vertex@sf@@QAE@XZ) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Vertex::Vertex(class sf::Vector2<float> const &)" (__imp_??0Vertex@sf@@QAE@ABV?$Vector2@M@1@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::CircleShape::CircleShape(float,unsigned int)" (__imp_??0CircleShape@sf@@QAE@MI@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QAEXM@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UAE@XZ) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::View::View(class sf::Rect<float> const &)" (__imp_??0View@sf@@QAE@ABV?$Rect@M@1@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::View::move(float,float)" (__imp_?move@View@sf@@QAEXMM@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::setView(class sf::View const &)" (__imp_?setView@RenderTarget@sf@@QAEXABVView@2@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Vertex const *,unsigned int,enum sf::PrimitiveType,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXPBVVertex@2@IW4PrimitiveType@2@ABVRenderStates@2@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Text::Text(class sf::String const &,class sf::Font const &,unsigned int)" (__imp_??0Text@sf@@QAE@ABVString@1@ABVFont@1@I@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setStyle(unsigned int)" (__imp_?setStyle@Text@sf@@QAEXI@Z) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B) в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B) в функции _main.
+C:\Users\user\Desktop\CursovayaC\Debug\CursovayaC.exe : fatal error LNK1120: неразрешенных внешних элементов: 57
